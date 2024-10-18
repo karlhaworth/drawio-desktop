@@ -16,7 +16,7 @@
   },
   "afterSign": "build/notarize.cjs",
   "afterPack": "build/fuses.cjs",
-  "wolfi": {
+  "linux": {
   	"executableName": "drawio",
     "category": "Graphics",
     "maintainer": "JGraph <support@draw.io>",
