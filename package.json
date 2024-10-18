@@ -17,6 +17,7 @@
     "release-appx": "electron-builder --config electron-builder-appx.json --publish always",
     "release-linux": "electron-builder --config electron-builder-linux-mac.json --publish always",
     "release-snap": "electron-builder --config electron-builder-snap.json --publish never"
+    "release-wolfi": "electron-builder --config electron-builder-wolfi.json --publish always",
   },
   "repository": {
     "type": "git",
